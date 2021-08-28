@@ -39,23 +39,23 @@ Team Members
 เมื่อทำการปิดประตูตู้เซฟแล้ว จะกลับเข้าสู่การทำงานเช่นเดียวกับตอนที่เปิดเครื่อง
 
 รายการอุปกรณ์ที่ใช้ :
-• Raspberry Pi 3 Model B+ พร้อม สาย Adapter Model YM-0530 1 ชุด
-• Board NodeMCU - ATmega328p (Practicum Board v3.2 CPE. KU 2020-11) 1 ชุด
-• Peripheral board (PRACTICUM PROTOBOARD CPE. KU) 2 ชิ้น
-• สายแพ 3 สาย
-• Jumper wire Female-Female 6 สาย
-• Pin header ที่เพิ่มเข้ามา หลากหลายขนาด ดังนี้
-- ขนาด 5x2 : 3 ชิ้น
-- ขนาด 1x4 : 1 ชิ้น
-- ขนาด 1x3 : 1 ชิ้น
-- ขนาด 1x2 : 2 ชิ้น
-• Switch button กดติดปล่อยดับแบบ 4 ขา ขนาด 6x6x5 mm 4 ชิ้น
-• Switch button กดติดปล่อยดับแบบ 4 ขา ขนาด 6x6x7 mm 2 ชิ้น
-• 1602 LCD (Blue Screen) 16x2 LCD with backlight of the LCD screen พร้อม I2CInterface 5V 1 ชุด
-• Micro servo SG90 1 เครื่อง
-• USB TTL PL2303TA 1 สาย
-• Micro switch แบบยาว ขนาด 50 mm 220V 15A พร้อมบัดกรีสายไฟที่ขา C และ NO 1 ชิ้น
-• Resistor 10k Ohm 1 ชิ้น
+- Raspberry Pi 3 Model B+ พร้อม สาย Adapter Model YM-0530 1 ชุด
+- Board NodeMCU - ATmega328p (Practicum Board v3.2 CPE. KU 2020-11) 1 ชุด
+- Peripheral board (PRACTICUM PROTOBOARD CPE. KU) 2 ชิ้น
+- สายแพ 3 สาย
+- Jumper wire Female-Female 6 สาย
+- Pin header ที่เพิ่มเข้ามา หลากหลายขนาด ดังนี้
+  - ขนาด 5x2 : 3 ชิ้น
+  - ขนาด 1x4 : 1 ชิ้น
+  - ขนาด 1x3 : 1 ชิ้น
+  - ขนาด 1x2 : 2 ชิ้น
+- Switch button กดติดปล่อยดับแบบ 4 ขา ขนาด 6x6x5 mm 4 ชิ้น
+- Switch button กดติดปล่อยดับแบบ 4 ขา ขนาด 6x6x7 mm 2 ชิ้น
+- 1602 LCD (Blue Screen) 16x2 LCD with backlight of the LCD screen พร้อม I2CInterface 5V 1 ชุด
+- Micro servo SG90 1 เครื่อง
+- USB TTL PL2303TA 1 สาย
+- Micro switch แบบยาว ขนาด 50 mm 220V 15A พร้อมบัดกรีสายไฟที่ขา C และ NO 1 ชิ้น
+- Resistor 10k Ohm 1 ชิ้น
 
 เทคนิคที่ใช้ :
 • Backend :
