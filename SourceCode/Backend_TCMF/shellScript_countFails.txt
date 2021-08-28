@@ -1,0 +1,6 @@
+total_fail=$(grep fail Double_lock_safebox.log | wc -l)
+hardware_fail=$(grep fail Double_lock_safebox.log | grep hardware | wc -l)
+web_fail=$(grep fail Double_lock_safebox.log | grep web | wc -l)
+echo "total fail: $total_fail"
+echo "fail from hardware: $hardware_fail"
+echo "fail from website: $web_fail"
