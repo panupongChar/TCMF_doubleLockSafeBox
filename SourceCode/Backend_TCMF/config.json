@@ -1,4 +1,4 @@
 {
-    "hardware_password":"c77c5d0bd41444112139e966265864c7f774f171c396afc8995af212a8c9e28a",
-    "frontend_password":"ef797c8118f02dfb649607dd5d3f8c7623048c9c063d532cc95c5ed7a898a64f"
+    "hardware_password": "HARDWAREPASSWORD",
+    "frontend_password": "FRONTENDPASSWORD"
 }
